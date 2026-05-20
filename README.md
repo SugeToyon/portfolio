@@ -4,7 +4,7 @@ Personal portfolio website built with HTML, CSS, and JavaScript.
 Modern, responsive and simple design to showcase projects, skills, and contact information.
 
 ## Live Demo
-https://Sugetoyon.github.io/portfolio/
+https://Sugetoyon.github.io/portfolio/1.html
 
 ## Features
 - Responsive design (mobile & desktop)
